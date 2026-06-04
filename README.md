@@ -28,6 +28,19 @@ This repository contains my solutions for Day 1 of the 30-Day Summer Coding Chal
 9. Fahrenheit to Celsius conversion
 10. Volume of a cuboid
 
+## Day 02: Conditional Statements
+Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
+1. Positive number checker
+2. Divisibility by 5
+3. Voting eligibility
+4. Even or Odd
+5. Larger of two numbers
+6. Pass/Fail checker
+7. Positive, Negative, or Zero checker
+8. Age group classifier
+9. Largest of three numbers
+10. Store discount calculator
+
 ### Language Used
 
 Java
