@@ -1,8 +1,8 @@
-package Task1;
+// package Task1;
 
 import java.util.Scanner;
 
-public class Q8 {
+public class CelsiusToFahrenheit {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int c=sc.nextInt();

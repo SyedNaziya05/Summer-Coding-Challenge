@@ -1,8 +1,8 @@
-package Task1;
+// package Task1;
 
 import java.util.Scanner;
 
-public class Q7 {
+public class MarksPercentage {
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
         int marks1=sc.nextInt();
