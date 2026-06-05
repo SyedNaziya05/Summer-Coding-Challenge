@@ -41,7 +41,6 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 9. Largest of three numbers
 10. Store discount calculator
 
----
 
 ## 📅 Day 3: Logical Operators & Conditional Statements
 
