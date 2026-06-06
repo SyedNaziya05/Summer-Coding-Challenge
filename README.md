@@ -56,6 +56,21 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 * **Control Flow:** Utilizing `if`, `else if`, and `else` conditional branching.
 * **Modulo Operator (`%`):** Used to check for clean division by evaluating the remainder.
 
+## 📅 Day 04: Loops in Java
+
+**Topic:** Repetition and control flow using `for` loops.
+
+### 📝 Tasks Completed
+* `Print_1_to_1000.java` - Prints numbers 1 to 1000.
+* `MultiplicationTable.java` - Prints table up to 10 for input $N$.
+* `EvenNumbers.java` - Filters and prints even numbers up to $N$.
+* `OddNumbers.java` - Filters and prints odd numbers up to $N$.
+* `Factorial.java` - Computes factorial of $N$ using `long` to avoid overflow.
+
+### 💡 Key Takeaways
+* Used `Scanner` for user input and handled loop boundaries (`i <= N`).
+* Applied modulo (`%`) for parity checks and optimized data types for large numbers.
+
 ### Language Used
 
 Java
