@@ -71,22 +71,22 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 * Used `Scanner` for user input and handled loop boundaries (`i <= N`).
 * Applied modulo (`%`) for parity checks and optimized data types for large numbers.
 
-📅 Day 05: Loops - Summer Challenge 2026
+# 📅 Day 05: Loops - Summer Challenge 2026
 
-​Topic: Mastering loops and digit manipulation for efficient problem-solving.
+**Topic:** Mastering loops and digit manipulation for efficient problem-solving.
 
-​📝 Tasks Completed
-​SumOfN.java - Calculates the total sum of the first N natural numbers using an accumulator.
-​MultiplicationTable.java - Generates the multiplication table for an input N from 1 to 10.
-​CountDigits.java - Determines the number of digits in an integer, handling both positive and negative inputs.
-​ReverseNumber.java - Reverses the digits of an integer using modulo and division.
-​CheckPrime.java - Efficiently verifies if a number is prime using the \sqrt{N} optimization.
+### 📝 Tasks Completed
+* **SumOfN.java** - Calculates the total sum of the first $N$ natural numbers using an accumulator.
+* **MultiplicationTable.java** - Generates the multiplication table for an input $N$ from 1 to 10.
+* **CountDigits.java** - Determines the number of digits in an integer, handling both positive and negative inputs.
+* **ReverseNumber.java** - Reverses the digits of an integer using modulo and division.
+* **CheckPrime.java** - Efficiently verifies if a number is prime using the $\sqrt{N}$ optimization.
 
-​💡 Key Takeaways
-​Learned to use while loops for indefinite iteration (digit processing) and for loops for fixed iteration.
-​Mastered mathematical extraction of digits using modulo (%) and integer division (/).
-​Implemented the \sqrt{N} optimization to improve performance for primality testing, reducing redundant checks.
-​Handled edge cases such as negative numbers with Math.abs() and ensured proper loop termination conditions.
+### 💡 Key Takeaways
+* Learned to use `while` loops for indefinite iteration (digit processing) and `for` loops for fixed iteration.
+* Mastered mathematical extraction of digits using modulo (`%`) and integer division (`/`). 
+* Implemented the $\sqrt{N}$ optimization to improve performance for primality testing, reducing redundant checks.
+* Handled edge cases such as negative numbers with `Math.abs()` and ensured proper loop termination conditions.
 
 ### Language Used
 
