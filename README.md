@@ -71,7 +71,7 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 * Used `Scanner` for user input and handled loop boundaries (`i <= N`).
 * Applied modulo (`%`) for parity checks and optimized data types for large numbers.
 
-# 📅 Day 05: Loops - Summer Challenge 2026
+# 📅 Day 05: Loops
 
 **Topic:** Mastering loops and digit manipulation for efficient problem-solving.
 
