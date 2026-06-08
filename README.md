@@ -88,6 +88,30 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 * Implemented the $\sqrt{N}$ optimization to improve performance for primality testing, reducing redundant checks.
 * Handled edge cases such as negative numbers with `Math.abs()` and ensured proper loop termination conditions.
 
+
+### 📅 Day 06: Arrays and Algorithms
+
+**Topic:** Mastering one-dimensional arrays, traversal techniques, and algorithmic problem-solving.
+
+### 📝 Tasks Completed
+* **PrintElements.java** - Iterates and prints all elements of an array.
+* **ArraySum.java** - Calculates the total sum of all elements in the array.
+* **ArrayAverage.java** - Computes the arithmetic mean, utilizing type casting to `double` for precision.
+* **FindMax.java** - Scans the array to identify the largest numerical value.
+* **Findmin.java** - Scans the array to identify the smallest numerical value.
+* **CountEven.java** - Counts the number of even integers using the modulo operator.
+* **PrintOdd.java** - Filters and prints only the odd integers from the array.
+* **CountGreaterThanTen.java** - Counts elements exceeding the value of 10.
+* **SquareArray.java** - Transforms elements by squaring each and storing them in a new array.
+* **ReversePrint.java** - Traverses the array backwards to print elements in reverse order.
+
+### 💡 Key Takeaways
+* Learned that arrays in Java have a fixed size and are accessed using zero-based indexing.
+* Mastered the "accumulator pattern" to find sums, mins, and maxes.
+* Understood the importance of floating-point division to avoid integer truncation errors.
+* Gained experience in array mapping (creating a new array based on the transformation of another).
+* Reinforced the use of for loops to effectively traverse indices from 0 to length - 1 and vice versa.
+
 ### Language Used
 
 Java
