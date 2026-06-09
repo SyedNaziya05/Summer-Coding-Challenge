@@ -112,6 +112,29 @@ Completed 10 Java programs practicing `if`, `if-else`, and `else-if` structures:
 * Gained experience in array mapping (creating a new array based on the transformation of another).
 * Reinforced the use of for loops to effectively traverse indices from 0 to length - 1 and vice versa.
 
+## Day 07: List + Loops - Part 2
+
+Today's focus was on performing more advanced operations on arrays and lists, deepening my understanding of iteration and conditional logic in Java.
+
+### Key Learnings:
+* **Array Indexing:** Learned how to track the index of an element while iterating, specifically for finding maximum values.
+* **Efficient Searching:** Implemented linear search and understood the use of `return` to optimize search loops.
+* **Data Manipulation:** Practiced modifying lists using methods like `removeIf` and creating new lists based on processed data.
+* **Logic Optimization:** Improved my ability to differentiate between manipulating an element's value versus its index.
+
+### Tasks Completed:
+1.  Found the index of the largest element.
+2.  Counted occurrences of the largest element.
+3.  Validated if a list is sorted in ascending order.
+4.  Implemented a key search in an array.
+5.  Calculated the difference between the sum of even and odd numbers.
+6.  Removed all occurrences of a specific number from a list.
+7.  Created a new list with doubled elements.
+
+### Challenges Encountered:
+* Addressed `ArrayIndexOutOfBoundsException` by correctly comparing values instead of indices.
+* Refined my understanding of when to use `return` versus `else` statements in search algorithms.
+
 ### Language Used
 
 Java
