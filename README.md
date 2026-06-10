@@ -149,6 +149,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -167,8 +168,14 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
