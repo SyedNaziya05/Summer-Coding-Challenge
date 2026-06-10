@@ -142,3 +142,15 @@ Java
 ### Goal
 
 To improve consistency, problem-solving skills, and Java programming fundamentals through daily coding practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+## Sorting
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+<!---LeetCode Topics End-->
