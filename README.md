@@ -148,9 +148,27 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
