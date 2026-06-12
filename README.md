@@ -135,6 +135,33 @@ Today's focus was on performing more advanced operations on arrays and lists, de
 * Addressed `ArrayIndexOutOfBoundsException` by correctly comparing values instead of indices.
 * Refined my understanding of when to use `return` versus `else` statements in search algorithms.
 
+📅 Day 08: Array Manipulation Challenges
+Topic: Solving algorithmic problems related to arrays.
+
+📝 Tasks Completed
+0268-missing-number.java - Identifies the missing number in an array sequence.
+0287-find-the-duplicate-number - Logic implemented to detect duplicate entries within an array.
+1295-find-numbers-with-even-number-of-digits - Algorithm to filter and count numbers containing an even number of digits.
+2733-neither-minimum-nor-maximum - Solves for finding an element that is neither the minimum nor the maximum in an array.
+
+💡 Key Takeaways
+Strengthened skills in array traversal and data search techniques.
+Developed logical approaches to handle specific numerical constraints and patterns within datasets.
+
+​📅 Day 09: Practice Questions
+​Topic: Frequently asked coding problems in service-based companies.
+
+​📝 Tasks Completed
+​PrimeOrNot.java - Checks if a given number is prime.
+​AllPrimeNumbersInRange.java - Prints all prime numbers within a specified range.
+​GCDOfTwoNumbers.java - Calculates the Greatest Common Divisor (GCD) or Highest Common Factor (HCF) of two numbers.
+​SwapOfTwoNumbers.java - Swaps two numbers without using a third variable.
+
+​💡 Key Takeaways
+​Implemented core logic for identifying prime numbers and handling ranges.
+​Applied the Euclidean algorithm for efficient GCD calculation.
+​Mastered arithmetic-based swapping techniques to optimize memory usage.
+
 ### Language Used
 
 Java
