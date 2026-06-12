@@ -142,3 +142,42 @@ Java
 ### Goal
 
 To improve consistency, problem-solving skills, and Java programming fundamentals through daily coding practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+<!---LeetCode Topics End-->
