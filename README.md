@@ -162,6 +162,17 @@ Developed logical approaches to handle specific numerical constraints and patter
 ​Applied the Euclidean algorithm for efficient GCD calculation.
 ​Mastered arithmetic-based swapping techniques to optimize memory usage.
 
+​📅 Day 10: 2D Array
+​Topic: Working with two-dimensional arrays and lists.
+​📝 Tasks Completed
+​Row-wise traversal: Take a 2D Array/List of size N \times M and print all elements row-wise.
+​Row sum calculation: Take a 2D Array/List of size N \times M and print the sum of elements for each row.
+​Element search: Take a 2D Array/List of size N \times M and a key; determine if the key exists and print its (row, column) position if found.
+​LeetCode Practice: Solve the "Rotate Image" problem.
+​LeetCode Practice: Solve the "Spiral Matrix" problem.
+​💡 Key Takeaways
+​The 3rd, 4th, and 5th tasks are noted as being frequent interview questions.
+
 ### Language Used
 
 Java
