@@ -201,7 +201,10 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0867-transpose-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,4 +235,14 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
