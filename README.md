@@ -173,6 +173,19 @@ Developed logical approaches to handle specific numerical constraints and patter
 ​💡 Key Takeaways
 ​The 3rd, 4th, and 5th tasks are noted as being frequent interview questions.
 
+📅 Day 11: Matrix Manipulations
+Topic: Mastering diagonal operations, transposition, and optimized searching in 2D grids.
+
+📝 Tasks Completed
+- Diagonal Sum Calculation: Calculated the sum of primary and secondary diagonals in a square matrix, ensuring the center element is not counted twice.
+- Matrix Transpose: Transformed an m x n matrix by flipping it over its main diagonal, swapping row and column indices.
+- Count Negatives in Sorted Matrix: Implemented an optimized O(m + n) search algorithm to identify negative numbers in a grid sorted row-wise and column-wise.
+
+💡 Key Takeaways
+- Indexing Patterns: Primary diagonal indices satisfy (i == j), while secondary diagonal indices satisfy (j == n - 1 - i).
+- Space-Time Trade-off: Transposing requires creating a new structure, highlighting memory management for large matrices.
+- Leveraging Sorted Data: Utilizing sorted properties allows us to prune search paths, reducing complexity from O(m * n) to O(m + n).
+
 ### Language Used
 
 Java
