@@ -186,6 +186,41 @@ Topic: Mastering diagonal operations, transposition, and optimized searching in 
 - Space-Time Trade-off: Transposing requires creating a new structure, highlighting memory management for large matrices.
 - Leveraging Sorted Data: Utilizing sorted properties allows us to prune search paths, reducing complexity from O(m * n) to O(m + n).
 
+Day 12: Sorting Algorithms
+Focus: Understanding the mechanics of fundamental sorting techniques.
+
+[ ] Selection Sort
+
+[ ] Bubble Sort
+
+[ ] Insertion Sort
+
+Day 13: Searching & Sorting Problems
+Focus: Applying sorting and searching logic to solve common interview problems.
+
+[ ] 215. Kth Largest Element in an Array
+
+[ ] 1464. Maximum Product of Two Elements in an Array
+
+[ ] 628. Maximum Product of Three Numbers
+
+[ ] 88. Merge Sorted Array
+
+[ ] 169. Majority Element
+
+[ ] 75. Sort Colors
+
+Day 14: Two Pointers
+Focus: Mastering the two-pointer technique to optimize time complexity.
+
+[ ] 125. Valid Palindrome
+
+[ ] 344. Reverse String
+
+[ ] 26. Remove Duplicates from Sorted Array
+
+[ ]977. Squares of a Sorted Array
+
 ### Language Used
 
 Java
