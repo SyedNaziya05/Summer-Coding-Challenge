@@ -234,6 +234,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0039-combination-sum) |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0867-transpose-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0867-transpose-matrix) |
@@ -280,4 +281,8 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0867-transpose-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
