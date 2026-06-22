@@ -221,6 +221,8 @@ Focus: Mastering the two-pointer technique to optimize time complexity.
 
 [ ]977. Squares of a Sorted Array
 
+Day 15 to  Day20 :Practicing leetcode problems and doing the revision
+
 ### Language Used
 
 Java
