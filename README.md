@@ -248,6 +248,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -273,6 +274,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -287,4 +289,16 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0039-combination-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
