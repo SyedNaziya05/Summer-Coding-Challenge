@@ -292,6 +292,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -301,4 +302,12 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
