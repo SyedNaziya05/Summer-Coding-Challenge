@@ -254,6 +254,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -294,6 +295,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
@@ -317,4 +319,12 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
