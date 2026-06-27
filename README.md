@@ -296,6 +296,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
@@ -309,11 +310,13 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
