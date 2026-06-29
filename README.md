@@ -245,6 +245,7 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1572-matrix-diagonal-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -334,4 +335,8 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
