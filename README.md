@@ -339,4 +339,16 @@ To improve consistency, problem-solving skills, and Java programming fundamental
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SyedNaziya05/Summer-Coding-Challenge/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
